@@ -1,0 +1,136 @@
+﻿PROMPTS MÓDULO 2
+
+PROMPT VIABILIDAD DEL PRODUCTO DESEADO 
+
+INTELIGENCIA ARTIFICIAL: 
+
+Necesito que me hagas un analisis en Google trends sobre la viabilidad de lanzar un 
+infoproducto al mercado, el cual se promocionara por redes sociales como facebook, 
+tiktok e instagram. Haz la evaluación de 1/5, teniendo en cuenta 1 como poco viable y 5 
+como muy viable.
+
+Nicho: [Introduce el nicho de tu infoproducto]
+
+Subnicho: [Introduce el subnicho de tu infoproducto]
+
+Tema: [Introduce el tema específico del infoproducto]
+
+1. Análisis de Demanda:
+
+Volumen de búsqueda:
+¿Cuál es el volumen de búsqueda global y regional para el tema del infoproducto 
+en Google Trends?
+¿Cómo ha evolucionado el volumen de búsqueda en el último año?
+¿Existen tendencias estacionales o picos de interés relacionados con el tema?
+
+Competencia:
+¿Cuántos infoproductos similares existen en el mercado?
+¿Cuál es la calidad y el precio de los infoproductos existentes?
+
+2. Análisis de Viabilidad:
+
+Precio de venta:
+¿Cuál es el precio de venta ideal para el infoproducto que sea competitivo y 
+rentable?
+¿Existen diferentes opciones de precios para diferentes niveles de acceso al 
+infoproducto?
+
+Potencial de ingresos:
+¿Cuál es el tamaño del mercado potencial para el infoproducto?
+
+EJEMPLO DE COMO RELLENAR LOS CAMPOS DEL PROMPT VIABILIDAD DEL 
+PRODUCTO DESEADO: 
+
+
+
+PROMPT INVESTIGACIÓN BUYER PERSONA 
+
+INTELIGENCIA ARTIFICIAL: 
+
+Quiero que me realices una investigación profunda en redes sociales sobre mi BUYER 
+PERSON, vendo un infoproducto sobre [descripción sobre el infoproducto], desarrolla los 
+siguientes ítems: 
+
+Deseos, emociones que siente ahora, emociones que quiere sentir a futuro, creencias, lo 
+que quiere ganar, lo que quiere ser, lo que quiere hacer, lo que quiere evitar, que esta 
+viendo en redes sociales, que quiere ver mas y que quiere ver menos. Además, hazme un 
+antes y después de lo seria de la vida del prospecto con el infoproducto. 
+
+EJEMPLO DE COMO RELLENAR LOS CAMPOS DEL PROMPT INVESTIGACIÓN BUYER 
+PERSONA
+
+PROMPT NOMBRE PRODUCTO INTELIGENTE: 
+
+INTELIGENCIA ARTIFICIAL: 
+
+
+
+INTELIGENCIA ARTIFICIAL: 
+
+Estoy creando un ebook sobre [descripción del producto inteligente], quiero que me 
+ayudes a crear 10 nombres, máximo de 3 palabras, que sean llamativos para el 
+infoproducto. Ten en cuenta la siguiente investigación del BUYER PERSONA.
+
+PROMPTS CREACIÓN PRODUCTOS INTELIGENTES:
+
+PROMPT 1 ÍNDICE:
+
+Quiero que actues como un experto en [especialidad del experto] y me realices los 
+módulos de un ebook sobre [subnicho]. Utiliza un tono formal. La estructura del ebook 
+seria la siguiente: 
+
+Indice, introducción, desarrollo, conclusiones e información de contacto, donde 
+simplemente se le invita al lector a que se una a un grupo de telegram para obtener 
+contenido adicional. 
+
+EJEMPLO 
+
+Quiero que actues como un experto en mascotas, y me realices los módulos de un ebook 
+sobre primeros auxilios para perros. Utiliza un tono formal. La estructura del ebook seria la 
+siguiente: 
+
+
+
+Indice, introducción, desarrollo, conclusiones e información de contacto, donde 
+simplemente se le invita al lector a que se una a un grupo de telegram para obtener 
+contenido adicional. 
+
+PROMPT 2 INTRODUCCIÓN:
+
+EJEMPLO 
+
+Teniendo en cuenta la estructura que realizaste anteriormente, necesito que me 
+desarrolles la introducción del ebook. Recuerda nuevamente que eres un experto en 
+[especialidad del experto].
+
+PROMPT 3 DESARROLLO:
+
+EJMEPLO 
+
+Teniendo en cuenta la estructura que realizaste anteriormente, necesito que me realices 
+el desarrollo del ebook. Mínimo de 30 páginas. Recuerda nuevamente que eres un 
+experto en [especialidad del experto].
+
+PROMPT 4 CONCLUSIONES O RECOMENDACIONES ADICIONALES:
+
+EJEMPLO 
+
+Teniendo en cuenta la estructura que realizaste anteriormente, necesito que me 
+desarrolles las conclusiones y recomendaciones del ebook. Recuerda nuevamente que 
+eres un experto en [especialidad del experto].
+
+PROMPT 5 INFORMACIÓN DE CONTACTO:
+
+EJEMPLO 
+
+Teniendo en cuenta la estructura que realizaste anteriormente, necesito que me 
+desarrolles la información de contacto del  ebook. Recuerda nuevamente que eres un 
+experto en [especialidad del experto].  
+
+PROMPTS IMAGENES DEL PRODUCTO INTELIGENTE 
+
+PROMPT DESCRIPCIÓN PRODUCTO INTELIGENTE EN HOTMART 
+
+Este ebook será publicado en la plataforma Hotmart, necesito que me realices una 
+descripción sobre el producto. Sé breve pero específico con lo que se logrará con el 
+producto.
